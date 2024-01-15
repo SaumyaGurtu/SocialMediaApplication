@@ -1,4 +1,4 @@
-package com.socialmedia.SocialMediaApplication.controller;
+package com.socialmedia.SocialMediaApplication.services;
 
 import com.socialmedia.SocialMediaApplication.dto.CommentDto;
 import com.socialmedia.SocialMediaApplication.models.Comments;

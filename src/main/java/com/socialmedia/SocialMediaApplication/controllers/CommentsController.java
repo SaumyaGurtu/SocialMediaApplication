@@ -2,7 +2,7 @@ package com.socialmedia.SocialMediaApplication.controllers;
 
 import com.socialmedia.SocialMediaApplication.dto.CommentDto;
 import com.socialmedia.SocialMediaApplication.models.Comments;
-import com.socialmedia.SocialMediaApplication.controller.CommentsService;
+import com.socialmedia.SocialMediaApplication.services.CommentsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
